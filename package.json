@@ -14,7 +14,7 @@
     "react-id-swiper": "^3.0.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
-    "swiper": "^5.3.6",
+    "swiper": "^6.5.1",
     "tesseract.js": "^2.1.1"
   },
   "scripts": {
